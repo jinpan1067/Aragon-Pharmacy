@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server Scripts1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-K51UHCQ:DESKTOP-K51UHCQ\jinpa">
+          <Created>2021-03-29T14:28:57.2756855-04:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-K51UHCQ</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="10-carpoolListView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10-carpoolListView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11-avoidduplicatedata.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11-avoidduplicatedata.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12-toFindUnmatchedValue.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12-toFindUnmatchedValue.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13-getSubstituteListFn.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13-getSubstituteListFn.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14-EmployeeClassView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14-EmployeeClassView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15-EmployeeClassDescritptionView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15-EmployeeClassDescritptionView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16-UpToDateView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16-UpToDateView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17-MaxMinAvgHourlyRateView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17-MaxMinAvgHourlyRateView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-YearsOfServiceFn.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18-YearsOfServiceFn.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1-create-aragon-pharmacy.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1-create-aragon-pharmacy.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2-create-aragon-schemas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2-create-aragon-schemas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3-create-aragon-tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3-create-aragon-tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4-applying-data-integrities.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4-applying-data-integrities.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5_Create_Index.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>5_Create_Index.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5-triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>5-triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6-insert-datafile.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>6-insert-datafile.sql</FullPath>
+        </FileNode>
+        <FileNode Name="7-HourlyRateAnalysisView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>7-HourlyRateAnalysisView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="8-SpeakSpanishView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>8-SpeakSpanishView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9-HourlyRateSummaryView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-K51UHCQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-K51UHCQ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>9-HourlyRateSummaryView.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
